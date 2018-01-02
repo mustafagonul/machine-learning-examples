@@ -1,6 +1,6 @@
 [submodule "mpi/csv"]
 	path = mpi/csv
 	url = https://github.com/ben-strasser/fast-cpp-csv-parser.git
-[submodule "mpi/matrix-cpp"]
-	path = mpi/matrix-cpp
+[submodule "mpi/matrix"]
+	path = mpi/matrix
 	url = https://github.com/mustafagonul/matrix-cpp.git
